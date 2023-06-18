@@ -5,4 +5,8 @@ items:
   target: "/certification/"
   kind: page
   children: []
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  children: []
 
