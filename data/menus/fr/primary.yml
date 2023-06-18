@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Certification
+  target: "/certification/"
+  kind: page
+  children: []
 
