@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Certification
+- title: certification
   target: "/certification/"
   kind: page
   children: []
