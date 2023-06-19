@@ -2,11 +2,11 @@
 title: Menu principal
 items:
 - title: certification
-  target: "/certification/"
+  target: "/fr/certification/"
   kind: page
   children: []
 - title: organisations
-  target: "/organisations/"
+  target: "/fr/organisations/"
   kind: page
   children: []
 - title: ressources
