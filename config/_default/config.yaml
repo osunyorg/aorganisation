@@ -20,4 +20,4 @@ params:
     dark_logo_background: true
   logo:
     header: "/assets/images/aorg-white.svg"
-    footer: "/assets/images/aorg-red.svg"
+    footer: "/assets/images/aorg-white.svg"
