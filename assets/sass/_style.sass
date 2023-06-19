@@ -4,7 +4,17 @@ header#document-header
             flex-direction: column
             .logo
                 margin: 10px 0 30px
-                
+
+.document-content 
+    @include in-page-with-sidebar
+        .toc-container
+            // TODO mettre à droite (inverser les colonnes)
+            display: none
+        @include media-breakpoint-up(desktop)
+            .block 
+                .block-content
+                    padding-left: 0
+
 footer#document-footer
     margin-top: $spacing4
     .container
