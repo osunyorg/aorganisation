@@ -6,6 +6,7 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    posts: /actualites/:year-:month-:day-:slug/
     organizations: /organisations-1/:slug/
 fr:
   title: A Organisation
@@ -13,4 +14,5 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
+    posts: /ressources/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
