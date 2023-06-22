@@ -5,6 +5,10 @@ items:
   target: "/fr/charte/"
   kind: page
   children: []
+- title: certification
+  target: "/fr/certification/"
+  kind: page
+  children: []
 - title: organisations
   target: "/fr/organisations/"
   kind: page
