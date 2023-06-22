@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: ressources
-  target: ''
-  kind: blank
+  target: "/fr/actualites/"
+  kind: page
   children: []
 
