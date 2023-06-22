@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: certification
-  target: "/fr/certification/"
+- title: charte
+  target: "/fr/charte/"
   kind: page
   children: []
 - title: organisations
@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: ressources
-  target: "/fr/actualites/"
+  target: "/fr/ressources/"
   kind: page
   children: []
 
