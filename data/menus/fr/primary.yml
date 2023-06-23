@@ -2,19 +2,19 @@
 title: Menu principal
 items:
 - title: charte
-  target: "/fr/charte/"
+  target: "/charte/"
   kind: page
   children: []
 - title: certification
-  target: "/fr/certification/"
+  target: "/certification/"
   kind: page
   children: []
 - title: organisations
-  target: "/fr/organisations/"
+  target: "/organisations/"
   kind: page
   children: []
 - title: ressources
-  target: "/fr/ressources/"
+  target: "/ressources/"
   kind: page
   children: []
 
