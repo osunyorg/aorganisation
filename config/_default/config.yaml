@@ -12,9 +12,7 @@ params:
   breadcrumb:
     position: after-hero
   summary:
-    position: hero # content | hero
-  organizations:
-    dark_logo_background: true
+    position: hero
   logo:
-    header: "/assets/images/aorg-white.svg"
+    header: "/assets/images/aorg-black.svg"
     footer: "/assets/images/aorg-white.svg"
