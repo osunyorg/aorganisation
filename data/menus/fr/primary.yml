@@ -9,8 +9,8 @@ items:
   target: "/fr/certification/"
   kind: page
   children: []
-- title: organisations
-  target: "/fr/organisations/"
+- title: annuaire
+  target: "/fr/annuaire/"
   kind: page
   children: []
 - title: ressources
