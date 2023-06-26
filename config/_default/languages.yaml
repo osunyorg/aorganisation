@@ -16,5 +16,5 @@ fr:
   languageName: Français
   permalinks:
     posts: /ressources/:year-:month-:day-:slug/
-    organizations: /organisations/:slug/
+    organizations: /annuaire/:slug/
     persons: /equipe/:slug/
