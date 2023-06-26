@@ -2,15 +2,15 @@
 title: Informations légales
 items:
 - title: mentions légales
-  target: "/fr/mentions-legales/"
+  target: "/mentions-legales/"
   kind: page
   children: []
 - title: accessibilité
-  target: "/fr/accessibilite/"
+  target: "/accessibilite/"
   kind: page
   children: []
 - title: plan du site
-  target: "/fr/plan-du-site/"
+  target: "/plan-du-site/"
   kind: page
   children: []
 
