@@ -1,7 +1,8 @@
 ---
-title: >
-  une communauté d'organisations libres engagées pour un futur vivable
+title: "une communauté d'organisations libres engagées pour un futur vivable"
 breadcrumb_title: "Accueil"
+breadcrumbs:
+  - title: "une communauté d'organisations libres engagées pour un futur vivable"
 url: "/"
 aliases:
   - /fr/
@@ -25,11 +26,11 @@ image:
     
 
 children:
-  - /charte/
-  - /certification/
-  - /ressources/
-  - /equipe/
-  - /annuaire/
+  - "content/fr/pages/charte/_index.html"
+  - "content/fr/pages/certification/_index.html"
+  - "content/fr/posts/_index.html"
+  - "content/fr/persons/_index.html"
+  - "content/fr/organizations/_index.html"
 meta_description: >
   
 description: >
@@ -58,58 +59,18 @@ contents:
       show_images: true
       layout: grid
       pages:
-        - page: "/charte/"
-          slug: "/charte/"
-        - page: "/certification/"
-          slug: "/certification/"
-        - page: "/annuaire/"
-          slug: "/annuaire/"
-      elements:
-        - title: >-
-            charte
-          summary: >-
-            Qu'est-ce qu'une A Org ? Quelles valeurs ? Quels principes ?
+        - path: "/charte/"
           slug: "charte"
-          path: "/charte/"
-          url: "/charte/"
-          bodyclass: >-
-            
-          image:
-            id: "edfffc66-edde-4d63-b703-41812b3943cd"
-            alt: >-
-              
-            credit: >-
-              
-        - title: >-
-            certification
-          summary: >-
-            Comment une organisation peut-elle être certifiée A Org ?
+          file: "content/fr/pages/charte/_index.html"
+          external: false
+        - path: "/certification/"
           slug: "certification"
-          path: "/certification/"
-          url: "/certification/"
-          bodyclass: >-
-            
-          image:
-            id: "5233a7e1-01d9-4318-bcdc-bbaa7473c467"
-            alt: >-
-              
-            credit: >-
-              
-        - title: >-
-            annuaire
-          summary: >-
-            Découvrir toutes les organisations A Org
+          file: "content/fr/pages/certification/_index.html"
+          external: false
+        - path: "/annuaire/"
           slug: "annuaire"
-          path: "/annuaire/"
-          url: "/annuaire/"
-          bodyclass: >-
-            
-          image:
-            id: "d26c7d38-3521-4a8e-bca2-780c5e6abe8f"
-            alt: >-
-              
-            credit: >-
-              
+          file: "content/fr/organizations/_index.html"
+          external: false
 
 
 
