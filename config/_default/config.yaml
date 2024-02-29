@@ -10,3 +10,5 @@ params:
   logo:
     header: "/assets/images/aorg-black.svg"
     footer: "/assets/images/aorg-white.svg"
+  debug:
+     productionUrl: "https://www.aorganisation.org"
