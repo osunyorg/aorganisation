@@ -11,9 +11,9 @@ fr:
   permalinks:
     posts: /ressources/:year-:month-:day-:slug/
     organizations: /annuaire/:slug/
-    organizations_categories: /annuaire/:slug/
+    organizations_categories: /annuaire/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
