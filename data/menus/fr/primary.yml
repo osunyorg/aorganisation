@@ -5,16 +5,20 @@ items:
   target: "/charte/"
   kind: page
   children: []
+  file: content/fr/pages/charte/_index.html
 - title: certification
   target: "/certification/"
   kind: page
   children: []
+  file: content/fr/pages/certification/_index.html
 - title: annuaire
   target: "/annuaire/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 - title: ressources
   target: "/ressources/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
