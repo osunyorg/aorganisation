@@ -4,24 +4,28 @@ items:
 - title: charte
   target: "/charte/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/charte"
   file: content/fr/pages/charte/_index.html
 - title: certification
   target: "/certification/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/certification"
   file: content/fr/pages/certification/_index.html
 - title: annuaire
   target: "/annuaire/"
   kind: page
+  new_tab: false
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: ressources
   target: "/ressources/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
