@@ -2,31 +2,39 @@
 title: Menu principal
 items:
 - title: charte
+  slug: charte
   target: "/charte/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/charte"
   file: content/fr/pages/charte/_index.html
 - title: certification
+  slug: certification
   target: "/certification/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/certification"
   file: content/fr/pages/certification/_index.html
 - title: annuaire
+  slug: annuaire
   target: "/annuaire/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
 - title: ressources
+  slug: ressources
   target: "/ressources/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 
