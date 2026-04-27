@@ -13,3 +13,108 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/organisations/noesya/index.html"
+to = "/annuaire/noesya/"
+
+[[redirects]]
+from = "/fr/equipe/index.html"
+to = "/equipe/"
+
+[[redirects]]
+from = "/fr/charte/index.html"
+to = "/charte/"
+
+[[redirects]]
+from = "/fr/equipe/equipe-editoriale/index.html"
+to = "/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/organisations/index.html"
+to = "/annuaire/"
+
+[[redirects]]
+from = "/en/equipe/index.html"
+to = "/equipe/"
+
+[[redirects]]
+from = "/en/index.html"
+to = "/"
+
+[[redirects]]
+from = "/fr/equipe/edouard-jourdain/index.html"
+to = "/equipe/edouard-jourdain/"
+
+[[redirects]]
+from = "/fr/ressources/2023-06-22-lage-du-faire-hacking-travail-anarchie/index.html"
+to = "/ressources/2023-06-22-lage-du-faire-hacking-travail-anarchie/"
+
+[[redirects]]
+from = "/fr/annuaire/noesya/index.html"
+to = "/annuaire/noesya/"
+
+[[redirects]]
+from = "/fr/actualites/index.html"
+to = "/ressources/"
+
+[[redirects]]
+from = "/fr/politique-de-confidentialite/index.html"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/fr/mentions-legales/index.html"
+to = "/mentions-legales/"
+
+[[redirects]]
+from = "/fr/accessibilite/index.html"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/annuaire/"
+
+[[redirects]]
+from = "/fr/plan-du-site/index.html"
+to = "/plan-du-site/"
+
+[[redirects]]
+from = "/fr/ressources/index.html"
+to = "/ressources/"
+
+[[redirects]]
+from = "/fr/actualites/2023-06-22-lage-du-faire-hacking-travail-anarchie/index.html"
+to = "/ressources/2023-06-22-lage-du-faire-hacking-travail-anarchie/"
+
+[[redirects]]
+from = "/fr/annuaire/index.html"
+to = "/annuaire/"
+
+[[redirects]]
+from = "/en/organisations-1/index.html"
+to = "/organisations-1/"
+
+[[redirects]]
+from = "/fr/certification/index.html"
+to = "/certification/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/ressources/"
+
+[[redirects]]
+from = "/fr/organisations/noesya/index.html"
+to = "/annuaire/noesya/"
+
+[[redirects]]
+from = "/fr/equipe/arnaud-levy/index.html"
+to = "/equipe/arnaud-levy/"
+
+[[redirects]]
+from = "/fr/equipe/edouard-jourdain-1/index.html"
+to = "/equipe/edouard-jourdain/"
+
+[[redirects]]
+from = "/fr/index.html"
+to = "/"
+
